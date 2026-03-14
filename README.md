@@ -7,6 +7,8 @@ Fun fact: I love solving coding challenges.
 
 ![Gourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gourav-kr100&show_icons=true&theme=radical)  
 ![Gourav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gourav-kr100&theme=radical)
+<!-- Most Used Languages Card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-kr100&layout=compact&theme=tokyonight)
 
 
 
