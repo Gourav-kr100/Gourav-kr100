@@ -4,7 +4,8 @@ Currently learning **Data Structures & Algorithms in C++**.
 Exploring **Backend Development** with Node.js, Express.js, and databases.
 Fun fact: I love solving coding challenges.
 
-https://github-readme-streak-stats.herokuapp.com/?user=Gourav-kr100&theme=radical
+
+![Gourav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gourav-kr100&theme=radical)
 <!--
 **Gourav-kr100/Gourav-kr100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
