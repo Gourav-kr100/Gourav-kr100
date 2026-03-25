@@ -20,10 +20,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-kr100&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&border_color=ff00ff&border_radius=15" />
+## 📊 GitHub Stats
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-kr100&theme=tokyonight&background=0d1117&ring=ff00ff&fire=ffcc00&currStreakLabel=00ffff&border=ff00ff&border_radius=15" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-kr100&show_icons=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=facc15&border_color=38bdf8&border_radius=15" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-kr100&background=0f172a&ring=38bdf8&fire=facc15&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=e2e8f0&border=38bdf8&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-kr100&layout=compact&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&border_color=38bdf8&border_radius=15" />
 </p>
 
 <p align="center">
