@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Gourav Kumar Routh</h1>
-<h3 align="center">🚀 BTech CSE Student | DSA in C++ | Backend Developer</h3>
 ## 🚀 About Me
 
 - 🎓 BTech CSE @ Heritage Institute of Technology, Kolkata  
@@ -9,7 +8,7 @@
 - 🧠 Love solving coding challenges  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+Enthusiast;Backend+Developer;Competitive+Programmer;Always+Learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+Enthusiast;Backend+Developer;Always+Learning&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -22,17 +21,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-kr100&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-kr100&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-kr100&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&border_color=ff00ff&border_radius=15" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-kr100&theme=tokyonight&background=0d1117&ring=ff00ff&fire=ffcc00&currStreakLabel=00ffff&border=ff00ff&border_radius=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-kr100&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-kr100&layout=compact&bg_color=0d1117&title_color=ff00ff&text_color=00ffff&border_color=ff00ff&border_radius=15" />
 </p>
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
