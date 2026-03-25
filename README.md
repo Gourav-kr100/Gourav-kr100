@@ -31,9 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-kr100&layout=compact&cache_seconds=1800&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&border_color=38bdf8&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-kr100&layout=compact&langs_count=8&hide_border=false&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=ffcc00&border_color=00d9ff&border_radius=20" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-kr100&layout=compact&bg_color=0d1117&title_color=ff00ff&text_color=00ffff&border_color=ff00ff&border_radius=15" />
 </p>
