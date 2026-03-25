@@ -1,26 +1,35 @@
-# Hi, I'm Gourav 👋
 
-I'm a BTech CSE student at Heritage Institute of Technology, Kolkata.  
-Currently learning **Data Structures & Algorithms in C++**.  
-Exploring **Backend Development** with Node.js, Express.js, and databases.  
-Fun fact: I love solving coding challenges.
+<h1 align="center">Hi 👋, I'm Gourav Kumar Routh</h1>
+<h3 align="center">🚀 BTech CSE Student | DSA in C++ | Backend Developer</h3>
+## 🚀 About Me
 
-![Gourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gourav-kr100&show_icons=true&theme=radical)  
-![Gourav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gourav-kr100&theme=radical)
-<!-- Most Used Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-kr100&layout=compact&theme=tokyonight)
+- 🎓 BTech CSE @ Heritage Institute of Technology, Kolkata  
+- 💻 Currently learning **Data Structures & Algorithms (C++)**  
+- 🌐 Exploring **Backend Development (Node.js, Express.js)**  
+- 🧠 Love solving coding challenges  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+Enthusiast;Backend+Developer;Competitive+Programmer;Always+Learning&center=true&width=500&height=45">
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B">
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express">
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb">
+</p>
 
+## 📊 GitHub Stats
 
-<!--
-**Gourav-kr100/Gourav-kr100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gourav-kr100&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav-kr100&theme=radical&hide_border=true" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav-kr100&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
